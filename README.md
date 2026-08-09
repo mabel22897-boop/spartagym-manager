@@ -260,3 +260,7 @@ venta de productos.
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia [MIT](LICENSE).
+
+---
+
+*Documentación generada como parte de la Fase IV del proyecto.*
